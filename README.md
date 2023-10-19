@@ -75,8 +75,6 @@ This section is further divided into several chapters based on the topics covere
 - Total Exercises: 15
 - Maximum Points: 300
 
-Each chapter contains the exercises related to the respective topic.
-
 ### Problem 2
 
 This section includes the following assigned problems:
@@ -88,9 +86,9 @@ This section includes the following assigned problems:
 - [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)
 - [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)
 
-*NB*: In this section, there are also additional exercises (marked as EXTRA) to enhance your Python skills.
-
 The solutions to Problem 1 and Problem 2 can be found in the Jupyter Notebook file `HW1.ipynb`. The `Submissions HackerRank.pdf` file in this repository contains the results and submissions for the exercises completed on HackerRank. It provides a detailed overview of the submissions made for the problems covered in Problem 1 and Problem 2.
+
+*NB*: In my Jupyter Notebook, there are also additional exercises (marked as EXTRA) to enhance my Python skills.
 
 ## Problem 3
 
