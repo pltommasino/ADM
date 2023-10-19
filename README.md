@@ -96,10 +96,13 @@ The solutions to Problem 1 and Problem 2 can be found in the Jupyter Notebook fi
 
 ### AWS - 60381 Module Knowledge Check
 
-As the final part of Homework 1, the assignment focuses on honing your Cloud Computing skills using the AWS ecosystem. You are required to complete this assignment electronically through the AWS Academy online service, in conjunction with the course "Cloud Foundations." This course can be accessed using the following URL: [Cloud Foundations Course (60381)](https://awsacademy.instructure.com/courses/60381. The results of the knowledge check for this course can be found in the `AWS - 60381 Module Knowledge Check.pdf` file. This document contains the scores and outcomes of the knowledge check related to AWS.
+As the final part of Homework 1, the assignment focuses on honing your Cloud Computing skills using the AWS ecosystem. You are required to complete this assignment electronically through the AWS Academy online service, in conjunction with the course "Cloud Foundations." This course can be accessed using the following URL: [Cloud Foundations Course (60381)](https://awsacademy.instructure.com/courses/60381). The results of the knowledge check for this course can be found in the `AWS - 60381 Module Knowledge Check.pdf` file. This document contains the scores and outcomes of the knowledge check related to AWS.
 
 
 For any additional information or inquiries, please feel free to contact me.
 
+
+
 **Author: Pasquale Luca Tommasino**
+
 **Date: 15/10/2023**
